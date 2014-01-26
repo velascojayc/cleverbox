@@ -1,0 +1,41 @@
+@font-face{
+    font-family:GeosansLight;
+    src:url(../fonts/GeosansLight.ttf);
+}
+@font-face{
+    font-family:RoadTrip;
+    src:url(../fonts/RoadTrip.ttf);
+}
+@font-face{
+    font-family:HousePaint;
+    src:url(../fonts/HousePaint.ttf);
+}
+body{
+/*    backgroud-image:url('../img/cbe-comingsoon.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background:#13304e;*/
+}
+
+.cleverbox-fonts{
+    font-family:GeosansLight;
+    font-size: 50px;
+    letter-spacing: 2px;
+}
+.brand-to-life{
+    font-family:GeosansLight;
+    font-size: 40px;
+    font-weight: lighter;
+    letter-spacing: 2px;
+    color:#000;
+}
+#cleverbox-logo{
+    background:url(../img/cleverbox-tile-white.png);
+    background-size:30% 30%;
+    background-repeat:no-repeat;
+}
+.cleverbox-brand{
+    /*color: #ffff02;*/
+    color:#000;
+}
